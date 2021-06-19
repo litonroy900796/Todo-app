@@ -1,0 +1,58 @@
+*{
+    margin: px;
+    padding: 0px;
+}
+.container{
+    width: 700px;
+    margin: 0 auto;
+    margin-top: 200px;
+}
+.todotitle h1{
+    font-size: 30px;
+    font-family:sans-serif;
+
+}
+.todos{
+    width: 100%;
+}
+.btn-danger{
+    width: 70px;
+    font-size: 16px;
+    background-color: tomato;
+    color: white;
+    border-radius: 4px;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    -ms-border-radius: 4px;
+    -o-border-radius: 4px;
+    outline: none;
+}
+tbody tr td{
+    font-size: 17px;
+    padding: 10px;
+}
+.add{
+    width: 100%;
+    margin-top: 10px;
+}
+.addtodo {
+   width: 40%;
+   padding: 10px;
+   border-color: tomato;
+   font-size: 30px;
+   outline: none;
+}
+.addtitle{
+    width: 40%;
+    font-size: 25px;
+    display: block;
+    margin-top: 10px;
+    padding: 10px;
+    justify-content: center;
+    background-color: yellowgreen;
+    border-color: tomato;
+    outline: none;
+    
+
+
+}
